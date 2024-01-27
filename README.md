@@ -1,3 +1,1 @@
-sorting_algorithms
-new project for alx
-for training
+sorting_algorithms for alx
